@@ -12,6 +12,7 @@
 
 ## 📺 Project Demonstration (YouTube)
 Check out the full walkthrough and live attack detection on my YouTube channel:
+--- 
 [<img alt="Snort IDS Graduation Project | Real-Time Network Threat Detection" width="100%" src="https://img.youtube.com/vi/89Mq2-fk6jM/maxresdefault.jpg" />](https://youtu.be/89Mq2-fk6jM?si=rk81SXUNljPZghlS)
 
 
