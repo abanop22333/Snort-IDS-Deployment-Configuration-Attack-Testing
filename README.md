@@ -5,13 +5,14 @@
 ![OS](https://img.shields.io/badge/OS-Ubuntu-E95420.svg)
 ![Security](https://img.shields.io/badge/Type-IDS/IPS-red.svg)
 
-> **Project 3: BobXploit Security Labs 🛡️**
+> **BobXploit Security Labs 🛡️**
 > Successfully installed and configured **Snort IDS** on Ubuntu to monitor, detect, and log network intrusion attempts in real-time. This project validates defensive capabilities against live attack simulations.
 
 ---
 
 ## 📺 Project Demonstration (YouTube)
 Check out the full walkthrough and live attack detection on my YouTube channel:
+[<img alt="Snort IDS: Deployment, Configuration Attack Testing" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build%20and%20Deploy%20Ecommerce%20Website%20With%20HTML%20CSS%20JavaScript%20Full%20Responsive%20Ecommerce%20Course%20FREE.PNG?raw=true" />](https://youtu.be/89Mq2-fk6jM?si=wsYWCoHMxinK6m0u)
 
 [![Snort IDS Project YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/89Mq2-fk6jM?si=wsYWCoHMxinK6m0u)
 
