@@ -51,4 +51,35 @@ sudo apt-get install snort -y
 
 # Verify configuration
 snort -T -c /etc/snort/snort.conf
+```
+
+
+
+### 2. Attack Detection (MS17-010)
+نجح النظام في اكتشاف محاولة استغلال ثغرة EternalBlue وإظهار تنبيهات فورية:
+
+Attack Type: Microsoft SMB Remote Code Execution attempt.
+
+Source IP: 192.168.1.18 (Attacker).
+
+Destination IP: 192.168.1.20 (Victim).
+
+### 🏁 Final Results
+[x] تم إعداد Snort بنجاح لمراقبة حركة الشبكة.
+
+[x] القدرة على التمييز بين حركات البيانات الطبيعية والمشبوهة.
+
+[x] إثبات فعالية الأدوات مفتوحة المصدر في حماية الشبكات.
+
+### 📚 Resources & Learning Materials
+في هذا القسم يمكنك إضافة أي روابط، كتب، أو ملفات استخدمتها في دراستك للمشروع:
+
+📖 Official Documentation: Snort User Manual : https://www.snort.org/documents
+🎓 Recommended Course: Snort Intrusion Detection Course by Alexis Ahmed (HackerSploit) 
+   https://www.youtube.com/watch?v=ClXsXsleof4&list=PLBf0hzazHTGMVNqvANeu7SSMJHU3uRLWw
+
+🛠️ Tools Used: Nmap, Metasploit
+
+### 🎓 Special Thanks: شكر خاص لـ Anibus Security Group والمهندسين (محمود رمضان واحمد أباظه) على الدعم والتوجيه.
+
 
