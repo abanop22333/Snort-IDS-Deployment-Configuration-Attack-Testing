@@ -13,7 +13,7 @@
 ## 📺 Project Demonstration (YouTube)
 Check out the full walkthrough and live attack detection on my YouTube channel:
 
-[![Snort IDS Project YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
+[![Snort IDS Project YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/89Mq2-fk6jM?si=wsYWCoHMxinK6m0u)
 
 ---
 
